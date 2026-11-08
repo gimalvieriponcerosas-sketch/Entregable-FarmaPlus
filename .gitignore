@@ -1,0 +1,10 @@
+﻿# Local runtime data
+data/*.sqlite
+data/*.sqlite-shm
+data/*.sqlite-wal
+
+# Local tooling
+.qodo/
+
+# Dependencies
+node_modules/

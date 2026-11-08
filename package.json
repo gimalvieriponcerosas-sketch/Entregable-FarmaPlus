@@ -1,0 +1,12 @@
+{
+  "name": "farmaplus",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sistema web local para inventario y ventas de FarmaPlus",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
